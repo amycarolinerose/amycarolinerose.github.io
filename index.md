@@ -4,7 +4,7 @@ layout: page
 image: "headshot.jpg"
 ---
 
-<img src="/assets/headshot.jpg" width="200" align="right"/>  
+<img src="/assets/headshot.jpg" width="400" align="right"/>  
 
 current RA at FRBOG.
 
