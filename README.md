@@ -1,5 +1,7 @@
 ---
 layout: page
+permalink: "about me"
+title: "about me"
 ---
 Thanks for visiting my website! Here I host links to my on-going work, papers I find interesting, and resources for people considering pursuing a PhD in economics.
 
