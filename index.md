@@ -5,12 +5,13 @@ image: "headshot.jpg"
 ---
 
 <div align="center">
-  <a>
-    current RA at FRBOG.
-
-    check out my CV [here.](/assets/amyRose.pdf)
-  </a>
-  <a>
-    <img src="/assets/headshot.jpg" width="412px"/>
-  </a>
+  <table>
+    <tr>
+      <td><b>current RA at FRBOG.</b></td>
+      <td><b>check out my CV [here.](/assets/amyRose.pdf)  </b></td>
+    </tr>
+    <tr>
+      <img src="/assets/headshot.jpg" width="412px"/>  
+    </tr>
+  </table>
 </div>
