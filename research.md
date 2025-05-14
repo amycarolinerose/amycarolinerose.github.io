@@ -1,6 +1,4 @@
---
-#layout: page
---
+
 # My Research
 
 ## Working Papers
