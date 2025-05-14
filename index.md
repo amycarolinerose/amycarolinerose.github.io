@@ -6,4 +6,4 @@ image: "headshot.jpg"
 
 current RA at FRBOG
 
-<img src="/assets/headshot.png" alt="headshot">
+![headshot](/assets/headshot.jpg)
