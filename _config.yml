@@ -1,6 +1,5 @@
 title: "amy rose"
 author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,12 +15,14 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "README.md", title:"about me"}
+  - {file: "research.md", title:"my research"}
+  - {file: "amy.pdf", title:"cv"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:amy.caroline.rose@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/amycarolinerose"}
+  - {title: LinkedIn, icon: linkedin, url: "https://linkedin.com/in/amy-c-rose"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
