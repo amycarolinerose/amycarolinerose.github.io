@@ -1,6 +1,3 @@
-
-# My Research
-
 ## Working Papers
 "Payment Timing" with Erin Ferris and Manjola Tase (Federal Reserve Board)
 
