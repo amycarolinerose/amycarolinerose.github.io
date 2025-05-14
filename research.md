@@ -10,5 +10,4 @@
 
 ## Awards
 2023: Natalie Bolton Thesis Prize in Domestic Economics (Wellesley College)
-
-  \t*Awarded to the best senior thesis related to domestic economics.*
+    *Awarded to the best senior thesis related to domestic economics.*
