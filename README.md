@@ -1,8 +1,6 @@
 ---
 layout: page
 ---
-# about
-
 Thanks for visiting my website! Here I host links to my on-going work, papers I find interesting, and resources for people considering pursuing a PhD in economics.
 
 I currently work as a research assistant at the Federal Reserve Board of Governors\* in a section called [Money Market Analysis](https://www.federalreserve.gov/econres/mamma-staff.htm).
