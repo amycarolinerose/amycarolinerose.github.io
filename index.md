@@ -4,7 +4,7 @@ layout: page
 image: "headshot.jpg"
 ---
 
-<img src="/assets/headshot.jpg" width="400" align="left"/>  
+<img src="/assets/headshot.jpg" width="350" align="left"/>  
 
 current RA at the Fed.\*
 
