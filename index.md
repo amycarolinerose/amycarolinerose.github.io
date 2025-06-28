@@ -4,7 +4,7 @@ layout: page
 image: "headshot.jpg"
 ---
 
-<img src="/assets/headshot.jpg" alt="Image: Headshot" width="350" align="left" style="border: 20px solid white;"/>  
+<img src="/assets/headshot.jpg" alt="Image: Headshot" width="250" align="left" style="border: 20px solid white;"/>  
 
 RA @ Harvard Business School ([Private Capital Project](https://www.hbs.edu/private-capital/Pages/default.aspx)).
 
