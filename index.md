@@ -1,14 +1,15 @@
 ---
-title: "amy rose"
+title: "Home"
 layout: page
 image: "headshot.jpg"
 ---
 
 <img src="/assets/headshot.jpg" alt="Image: Headshot" width="350" align="left" style="border: 20px solid white;"/>  
 
-current RA at the Fed.\*
+RA @ Harvard Business School ([Private Capital Project](https://www.hbs.edu/private-capital/Pages/default.aspx)).
 
-check out my CV [here.](/assets/amyRose.pdf)
+Former RA @ the Fed ([Money Market Analysis](https://www.federalreserve.gov/econres/mamma-staff.htm)).
 
-*\*Disclaimer: All views expressed are my own and do not reflect the views of the Federal Reserve Board of Governors or any person affiliated with the Federal Reserve System.*
+Check out my CV [here.](/assets/amyRose.pdf)
+
     
