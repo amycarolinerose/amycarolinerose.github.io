@@ -7,8 +7,7 @@ title: "my research"
 ## Other Publications
 "What Happens in Repo Markets on Quarter-Ends" with Erik Bostrom, David Bowman, and Andy Xia. *FEDS Notes,* June 2025. [link](https://www.federalreserve.gov/econres/notes/feds-notes/what-happens-on-quarter-ends-in-the-repo-market-20250606.html).
 
-## Forthcoming Notes
-"What Can Public Fedwire Data Tell Us About Ample Reserves?" with Erin Ferris and Manjola Tase (Federal Reserve Board)
+"What Can Public Fedwire Data Tell Us About Ample Reserves?" with Erin Ferris and Manjola Tase. *FEDS Notes,* July 2025. [link](https://www.federalreserve.gov/econres/notes/feds-notes/what-can-public-fedwire-payments-data-tell-us-about-ample-reserves-20250718.html).
 
 ## Awards
 2023: Natalie Bolton Thesis Prize in Domestic Economics (Wellesley College)
